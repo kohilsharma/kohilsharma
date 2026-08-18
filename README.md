@@ -52,14 +52,6 @@
 
 <br clear="both">
 
-<p data-importer="text" align="left">🔭 working on an AI assisted News Intelligence platform<br>🌱 learning DSA, MLOps, Typescript<br>⚡ gym is first love, football second.</p>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kohilsharma/kohilsharma/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kohilsharma/kohilsharma/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kohilsharma/kohilsharma/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<p data-importer="text" align="left">🔭 working on an AI assisted News Intelligence platform<br>🌱 studying DSA, MLOps, Full Stack<br>⚡ hobbies include working out, economics</p>
 
 ###
